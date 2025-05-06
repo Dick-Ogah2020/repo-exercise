@@ -1,0 +1,1 @@
+Add a new line to main. Trying to use this example to generate and resolve merge comflicts.
