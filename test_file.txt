@@ -1,0 +1,1 @@
+This file is used to test how branching works and how to merge branches and create a pull request. 
